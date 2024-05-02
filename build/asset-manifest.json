@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/qalqio/static/css/main.33077fa1.css",
+    "main.js": "/qalqio/static/js/main.006baa96.js",
+    "static/media/qalq-trans.png": "/qalqio/static/media/qalq-trans.e58cd1417848cc7e2c88.png",
+    "static/media/hero-dark.jpg": "/qalqio/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/qalqio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/qalqio/service-worker.js",
+    "static/media/GH.svg": "/qalqio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/qalqio/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/qalqio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/qalqio/index.html",
+    "main.33077fa1.css.map": "/qalqio/static/css/main.33077fa1.css.map",
+    "main.006baa96.js.map": "/qalqio/static/js/main.006baa96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33077fa1.css",
+    "static/js/main.006baa96.js"
+  ]
+}
