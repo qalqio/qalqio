@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cfe27dbd.css",
-    "main.js": "/static/js/main.a5f8e97b.js",
+    "main.js": "/static/js/main.b207388d.js",
     "static/media/hero-image.jpg": "/static/media/hero-image.91db78cb4370dc97d6c3.jpg",
     "static/media/bobby-corpus.png": "/static/media/bobby-corpus.aa6a7339e02a542deea7.png",
     "static/media/eric-galapon.jpg": "/static/media/eric-galapon.8fee867c84fb7ad5a270.jpg",
@@ -24,10 +24,10 @@
     "static/media/qil.png": "/static/media/qil.3cc48f13083d5e2105a8.png",
     "index.html": "/index.html",
     "main.cfe27dbd.css.map": "/static/css/main.cfe27dbd.css.map",
-    "main.a5f8e97b.js.map": "/static/js/main.a5f8e97b.js.map"
+    "main.b207388d.js.map": "/static/js/main.b207388d.js.map"
   },
   "entrypoints": [
     "static/css/main.cfe27dbd.css",
-    "static/js/main.a5f8e97b.js"
+    "static/js/main.b207388d.js"
   ]
 }
