@@ -44,8 +44,8 @@ function Home() {
 
 			{/* ==== Hero Section ==== */}
 			<div className='hero section'>
-				<h1 className='hidden'>OneQuantum Philippines</h1>
-				<p className='hidden'>Empowering Filipino Talents in Quantum Science and Technologies.</p>
+				<h1 className='hidden'>Post-Quantum Technologies Inc</h1>
+				<p className='hidden'>Blah blah</p>
 				<div className='hero-cta hidden'>
 					<Button text='Join Us' color='gradient' target='collaboration' />
 					<Button text='Learn More' color='outline' target='about' />
