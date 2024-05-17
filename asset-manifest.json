@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6657fdb5.css",
-    "main.js": "/static/js/main.1cda7257.js",
+    "main.js": "/static/js/main.a2f7e1b9.js",
     "static/media/qalq-trans.png": "/static/media/qalq-trans.e58cd1417848cc7e2c88.png",
     "static/media/bobby-corpus.png": "/static/media/bobby-corpus.aa6a7339e02a542deea7.png",
     "static/media/eric-galapon.jpg": "/static/media/eric-galapon.8fee867c84fb7ad5a270.jpg",
@@ -11,7 +11,6 @@
     "static/media/henry-adorna.png": "/static/media/henry-adorna.44fb53a6d44255b6f85a.png",
     "static/media/elmer-peramo.png": "/static/media/elmer-peramo.00d83185beb0fc8476b1.png",
     "static/media/about-image.png": "/static/media/about-image.1a284f96a680c4fc4e43.png",
-    "static/media/oqph-full-logo.png": "/static/media/oqph-full-logo.7f3da49dc30683489d14.png",
     "static/media/ai-generated-8334304_1280.jpg": "/static/media/ai-generated-8334304_1280.55c2ace093864bbafe9e.jpg",
     "static/media/david-earl-robles.jpeg": "/static/media/david-earl-robles.441fd49857b3c991815e.jpeg",
     "static/media/icon-placeholder.png": "/static/media/icon-placeholder.b500f0a6d3ea3fac5b7b.png",
@@ -24,10 +23,10 @@
     "static/media/qil.png": "/static/media/qil.3cc48f13083d5e2105a8.png",
     "index.html": "/index.html",
     "main.6657fdb5.css.map": "/static/css/main.6657fdb5.css.map",
-    "main.1cda7257.js.map": "/static/js/main.1cda7257.js.map"
+    "main.a2f7e1b9.js.map": "/static/js/main.a2f7e1b9.js.map"
   },
   "entrypoints": [
     "static/css/main.6657fdb5.css",
-    "static/js/main.1cda7257.js"
+    "static/js/main.a2f7e1b9.js"
   ]
 }
