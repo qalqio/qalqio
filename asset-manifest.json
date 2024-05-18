@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6657fdb5.css",
-    "main.js": "/static/js/main.a2f7e1b9.js",
+    "main.css": "/static/css/main.92354012.css",
+    "main.js": "/static/js/main.de611c2f.js",
     "static/media/qalq-trans.png": "/static/media/qalq-trans.e58cd1417848cc7e2c88.png",
     "static/media/bobby-corpus.png": "/static/media/bobby-corpus.aa6a7339e02a542deea7.png",
     "static/media/eric-galapon.jpg": "/static/media/eric-galapon.8fee867c84fb7ad5a270.jpg",
@@ -15,18 +15,12 @@
     "static/media/david-earl-robles.jpeg": "/static/media/david-earl-robles.441fd49857b3c991815e.jpeg",
     "static/media/icon-placeholder.png": "/static/media/icon-placeholder.b500f0a6d3ea3fac5b7b.png",
     "static/media/jeffrey-aborot.jpg": "/static/media/jeffrey-aborot.181725c639eb2ed2c393.jpg",
-    "static/media/usc.png": "/static/media/usc.5252f727a3e8047c566a.png",
-    "static/media/dost-pcieerd.png": "/static/media/dost-pcieerd.dc8e915c22e984b97d98.png",
-    "static/media/msu-iit-ccs-ec.png": "/static/media/msu-iit-ccs-ec.dfc14ec7630130655d04.png",
-    "static/media/dost-asti.png": "/static/media/dost-asti.436a76b795800f18be28.png",
-    "static/media/backend-news.png": "/static/media/backend-news.4c0fb5d6249a004054c3.png",
-    "static/media/qil.png": "/static/media/qil.3cc48f13083d5e2105a8.png",
     "index.html": "/index.html",
-    "main.6657fdb5.css.map": "/static/css/main.6657fdb5.css.map",
-    "main.a2f7e1b9.js.map": "/static/js/main.a2f7e1b9.js.map"
+    "main.92354012.css.map": "/static/css/main.92354012.css.map",
+    "main.de611c2f.js.map": "/static/js/main.de611c2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6657fdb5.css",
-    "static/js/main.a2f7e1b9.js"
+    "static/css/main.92354012.css",
+    "static/js/main.de611c2f.js"
   ]
 }
