@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.92354012.css",
-    "main.js": "/static/js/main.de611c2f.js",
+    "main.css": "/static/css/main.9943cc85.css",
+    "main.js": "/static/js/main.c8deff1b.js",
     "static/media/qalq-trans.png": "/static/media/qalq-trans.e58cd1417848cc7e2c88.png",
     "static/media/bobby-corpus.png": "/static/media/bobby-corpus.aa6a7339e02a542deea7.png",
     "static/media/eric-galapon.jpg": "/static/media/eric-galapon.8fee867c84fb7ad5a270.jpg",
@@ -16,11 +16,11 @@
     "static/media/icon-placeholder.png": "/static/media/icon-placeholder.b500f0a6d3ea3fac5b7b.png",
     "static/media/jeffrey-aborot.jpg": "/static/media/jeffrey-aborot.181725c639eb2ed2c393.jpg",
     "index.html": "/index.html",
-    "main.92354012.css.map": "/static/css/main.92354012.css.map",
-    "main.de611c2f.js.map": "/static/js/main.de611c2f.js.map"
+    "main.9943cc85.css.map": "/static/css/main.9943cc85.css.map",
+    "main.c8deff1b.js.map": "/static/js/main.c8deff1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.92354012.css",
-    "static/js/main.de611c2f.js"
+    "static/css/main.9943cc85.css",
+    "static/js/main.c8deff1b.js"
   ]
 }
